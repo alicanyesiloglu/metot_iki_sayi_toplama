@@ -1,0 +1,9 @@
+C:\Users\docal\source\repos\ders 44 ödev metot 2 sayı toplama\ders 44 ödev metot 2 sayı toplama\bin\Debug\ders 44 ödev metot 2 sayı toplama.exe.config
+C:\Users\docal\source\repos\ders 44 ödev metot 2 sayı toplama\ders 44 ödev metot 2 sayı toplama\bin\Debug\ders 44 ödev metot 2 sayı toplama.exe
+C:\Users\docal\source\repos\ders 44 ödev metot 2 sayı toplama\ders 44 ödev metot 2 sayı toplama\bin\Debug\ders 44 ödev metot 2 sayı toplama.pdb
+C:\Users\docal\source\repos\ders 44 ödev metot 2 sayı toplama\ders 44 ödev metot 2 sayı toplama\obj\Debug\ders_44_ödev_metot_2_sayı_toplama.Form1.resources
+C:\Users\docal\source\repos\ders 44 ödev metot 2 sayı toplama\ders 44 ödev metot 2 sayı toplama\obj\Debug\ders_44_ödev_metot_2_sayı_toplama.Properties.Resources.resources
+C:\Users\docal\source\repos\ders 44 ödev metot 2 sayı toplama\ders 44 ödev metot 2 sayı toplama\obj\Debug\ders 44 ödev metot 2 sayı toplama.csproj.GenerateResource.cache
+C:\Users\docal\source\repos\ders 44 ödev metot 2 sayı toplama\ders 44 ödev metot 2 sayı toplama\obj\Debug\ders 44 ödev metot 2 sayı toplama.csproj.CoreCompileInputs.cache
+C:\Users\docal\source\repos\ders 44 ödev metot 2 sayı toplama\ders 44 ödev metot 2 sayı toplama\obj\Debug\ders 44 ödev metot 2 sayı toplama.exe
+C:\Users\docal\source\repos\ders 44 ödev metot 2 sayı toplama\ders 44 ödev metot 2 sayı toplama\obj\Debug\ders 44 ödev metot 2 sayı toplama.pdb
